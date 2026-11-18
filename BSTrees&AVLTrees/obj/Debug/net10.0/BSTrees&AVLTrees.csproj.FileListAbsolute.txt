@@ -1,0 +1,15 @@
+/Users/sammytsegay/Library/CloudStorage/OneDrive-MMU/Bsc Computer Science/Year 2/Algorithims & Data Structures/Projects/BSTrees&AVLTrees/BSTrees&AVLTrees/bin/Debug/net10.0/BSTrees&AVLTrees
+/Users/sammytsegay/Library/CloudStorage/OneDrive-MMU/Bsc Computer Science/Year 2/Algorithims & Data Structures/Projects/BSTrees&AVLTrees/BSTrees&AVLTrees/bin/Debug/net10.0/BSTrees&AVLTrees.deps.json
+/Users/sammytsegay/Library/CloudStorage/OneDrive-MMU/Bsc Computer Science/Year 2/Algorithims & Data Structures/Projects/BSTrees&AVLTrees/BSTrees&AVLTrees/bin/Debug/net10.0/BSTrees&AVLTrees.runtimeconfig.json
+/Users/sammytsegay/Library/CloudStorage/OneDrive-MMU/Bsc Computer Science/Year 2/Algorithims & Data Structures/Projects/BSTrees&AVLTrees/BSTrees&AVLTrees/bin/Debug/net10.0/BSTrees&AVLTrees.dll
+/Users/sammytsegay/Library/CloudStorage/OneDrive-MMU/Bsc Computer Science/Year 2/Algorithims & Data Structures/Projects/BSTrees&AVLTrees/BSTrees&AVLTrees/bin/Debug/net10.0/BSTrees&AVLTrees.pdb
+/Users/sammytsegay/Library/CloudStorage/OneDrive-MMU/Bsc Computer Science/Year 2/Algorithims & Data Structures/Projects/BSTrees&AVLTrees/BSTrees&AVLTrees/obj/Debug/net10.0/BSTrees&AVLTrees.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sammytsegay/Library/CloudStorage/OneDrive-MMU/Bsc Computer Science/Year 2/Algorithims & Data Structures/Projects/BSTrees&AVLTrees/BSTrees&AVLTrees/obj/Debug/net10.0/BSTrees&AVLTrees.AssemblyInfoInputs.cache
+/Users/sammytsegay/Library/CloudStorage/OneDrive-MMU/Bsc Computer Science/Year 2/Algorithims & Data Structures/Projects/BSTrees&AVLTrees/BSTrees&AVLTrees/obj/Debug/net10.0/BSTrees&AVLTrees.AssemblyInfo.cs
+/Users/sammytsegay/Library/CloudStorage/OneDrive-MMU/Bsc Computer Science/Year 2/Algorithims & Data Structures/Projects/BSTrees&AVLTrees/BSTrees&AVLTrees/obj/Debug/net10.0/BSTrees&AVLTrees.csproj.CoreCompileInputs.cache
+/Users/sammytsegay/Library/CloudStorage/OneDrive-MMU/Bsc Computer Science/Year 2/Algorithims & Data Structures/Projects/BSTrees&AVLTrees/BSTrees&AVLTrees/obj/Debug/net10.0/BSTrees&AVLTrees.sourcelink.json
+/Users/sammytsegay/Library/CloudStorage/OneDrive-MMU/Bsc Computer Science/Year 2/Algorithims & Data Structures/Projects/BSTrees&AVLTrees/BSTrees&AVLTrees/obj/Debug/net10.0/BSTrees&AVLTrees.dll
+/Users/sammytsegay/Library/CloudStorage/OneDrive-MMU/Bsc Computer Science/Year 2/Algorithims & Data Structures/Projects/BSTrees&AVLTrees/BSTrees&AVLTrees/obj/Debug/net10.0/refint/BSTrees&AVLTrees.dll
+/Users/sammytsegay/Library/CloudStorage/OneDrive-MMU/Bsc Computer Science/Year 2/Algorithims & Data Structures/Projects/BSTrees&AVLTrees/BSTrees&AVLTrees/obj/Debug/net10.0/BSTrees&AVLTrees.pdb
+/Users/sammytsegay/Library/CloudStorage/OneDrive-MMU/Bsc Computer Science/Year 2/Algorithims & Data Structures/Projects/BSTrees&AVLTrees/BSTrees&AVLTrees/obj/Debug/net10.0/BSTrees&AVLTrees.genruntimeconfig.cache
+/Users/sammytsegay/Library/CloudStorage/OneDrive-MMU/Bsc Computer Science/Year 2/Algorithims & Data Structures/Projects/BSTrees&AVLTrees/BSTrees&AVLTrees/obj/Debug/net10.0/ref/BSTrees&AVLTrees.dll
